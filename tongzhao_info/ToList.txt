@@ -1,0 +1,29 @@
+3.3 19:09
+
+1.
+Custom's foreignkey changed to be username
+username autocreate?
+
+2.
+Many to Many field how to serialized
+
+
+CREATE DATABASE tongzhao_info DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+3.5 1:39:
+
+1. do ViewSet's update, destroy, inactive, retrieve(click)
+
+2. JWT token
+
+3. Permission System
+
+3.5 1:39:
+
+1. do ViewSet's update, destroy, inactive, retrieve(click)
+
+tag's destroy remove tag, taggingBlog
+
+2. JWT token, request.user
+
+3. Permission System
